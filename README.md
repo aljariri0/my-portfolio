@@ -32,4 +32,4 @@ This is a responsive personal portfolio website created for Issa Aljariri. The w
 
 ### Figma link:
 
-### Live demo link:
+### Live demo link: https://aljariri0.github.io/my-portfolio/
