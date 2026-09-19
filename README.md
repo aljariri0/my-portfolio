@@ -4,6 +4,17 @@
 
 This is a responsive personal portfolio website created for Issa Aljariri. The webpage serves as a digital resume to highlight technical skills, showcase software development projects, and provide a contact form for professional inquiries.
 
+## How to Run
+
+Clone the repository and open the project folder:
+
+```bash
+git clone https://github.com/aljariri0/my-portfolio.git
+cd my-portfolio
+```
+
+Then open `index.html` in your web browser.
+
 ## Features
 
 - **Dark Mode:** Features a toggle switch allowing users to seamlessly transition between light and dark themes.
@@ -30,6 +41,6 @@ This is a responsive personal portfolio website created for Issa Aljariri. The w
 
 - `sytle.css`: The stylesheet defining the visual presentation, CSS variables for theme management, keyframe animations, and responsive media queries.
 
-### Figma link: https://www.figma.com/design/WJaQ8ZFE7RMI4uuoUYD8x6/HTML-to-Figma--Community-?node-id=1-209&t=vMeJLBjLD3mMCQTb-1
+### Figma link:[Link](https://www.figma.com/design/WJaQ8ZFE7RMI4uuoUYD8x6/HTML-to-Figma--Community-?node-id=1-209&t=vMeJLBjLD3mMCQTb-1)
 
-### Live demo link: https://aljariri0.github.io/my-portfolio/
+### Live demo link: [Link](https://aljariri0.github.io/my-portfolio/)

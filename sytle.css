@@ -138,7 +138,125 @@ main section.hero-section {
   border-radius: 50%;
 }
 
-/* ----------------------------------------- */
+/* Experience section */
+
+.experience-section {
+  padding: 0 50px;
+  margin-bottom: 100px;
+}
+
+.experience-section h2 {
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+.experience-section .exp-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+
+.experience-section .exp-list .exp-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  max-width: 800px;
+
+  border: 1px solid var(--text-color);
+  border-radius: 5px;
+
+  padding: 10px;
+
+  transition: transform 0.3s ease;
+}
+
+.exp-item:hover {
+  transform: translateY(-5px);
+}
+
+.exp-item h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.exp-item img {
+  object-fit: cover;
+}
+
+.exp-item .exp-info .company {
+  font-size: 18px;
+  color: var(--link-color);
+}
+
+.exp-item .exp-date {
+  opacity: 0.8;
+  font-style: italic;
+}
+
+/* Education section */
+
+.education-section {
+  padding: 0 50px;
+  margin-bottom: 100px;
+}
+
+.education-section h2 {
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+.education-section .edu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
+
+.education-section .edu-list .edu-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  max-width: 800px;
+
+  border: 1px solid var(--text-color);
+  border-radius: 5px;
+
+  padding: 10px;
+
+  transition: transform 0.3s ease;
+}
+
+.edu-item:hover {
+  transform: translateY(-5px);
+}
+
+.edu-item h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.edu-item img {
+  object-fit: cover;
+}
+
+.edu-item .edu-info .univ {
+  font-size: 18px;
+  color: var(--link-color);
+}
+
+.edu-item .edu-date {
+  opacity: 0.8;
+  font-style: italic;
+}
+
+/* Skills section */
 .skills-section {
   padding: 0 50px;
   margin-bottom: 100px;
@@ -315,19 +433,18 @@ main section.hero-section {
 /* Footer Section */
 footer {
   text-align: center;
-  padding: 20px 50px 40px 50px;
-  margin-top: 50px;
+  padding: 10px;
 }
 
 footer p {
   opacity: 0.8;
   font-size: 14px;
+  margin-top: 10px;
 }
 
 footer hr {
   border: none;
   border-top: 1px solid var(--text-color);
-  margin-bottom: 20px;
   opacity: 0.2;
 }
 
