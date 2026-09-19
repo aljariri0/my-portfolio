@@ -13,11 +13,11 @@ git clone https://github.com/aljariri0/my-portfolio.git
 cd my-portfolio
 ```
 
+Then open `index.html` in your web browser.
+
 ### Figma link: [Link](https://www.figma.com/design/WJaQ8ZFE7RMI4uuoUYD8x6/HTML-to-Figma--Community-?node-id=1-209&t=vMeJLBjLD3mMCQTb-1)
 
 ### Live demo link: [Link](https://aljariri0.github.io/my-portfolio/)
-
-Then open `index.html` in your web browser.
 
 ## Features
 
