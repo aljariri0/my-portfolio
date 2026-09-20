@@ -167,6 +167,10 @@ section {
   border-radius: 8px;
 }
 
+.skills-section h2 {
+  margin-bottom: 10px;
+}
+
 /* Experience & Education Section */
 .exp-list,
 .edu-list {
