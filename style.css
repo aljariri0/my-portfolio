@@ -301,6 +301,10 @@ section {
   gap: 10px;
 }
 
+.contact-section .group .text h3 {
+  font-size: 30px;
+}
+
 .contact-section form input,
 .contact-section form textarea {
   font-family: inherit;
